@@ -60,6 +60,4 @@ Use -r flag to resize image. Recommended for DBSCAN algorithm for fast processin
 
 ----------------------
 ## Authors
-1. Madiha Shaikh (Matriculation: 5001778)
-
-2. Muhammad Hanzala Afzal (Matriculation: 5002240)
+Hanzala Afzal
